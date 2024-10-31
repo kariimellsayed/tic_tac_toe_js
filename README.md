@@ -27,7 +27,7 @@ Tic Tac Toe is a simple and fun two-player game where players take turns marking
 
 ## 🚀 Getting Started
 
-[Live Demo on Vercel](tic-tac-toe-js-r.vercel.app)
+[Live Demo on Vercel](https://tic-tac-toe-js-r.vercel.app)
 
 ### Prerequisites
 
