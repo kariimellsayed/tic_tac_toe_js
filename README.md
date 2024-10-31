@@ -27,13 +27,8 @@ Tic Tac Toe is a simple and fun two-player game where players take turns marking
 
 ## 🚀 Getting Started
 
+[vercel link]("tic-tac-toe-js-r.vercel.app)
+
 ### Prerequisites
 
 Make sure you have a modern web browser installed (Chrome, Firefox, Safari, etc.).
-
-### Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/tictactoe.git
-   ```
